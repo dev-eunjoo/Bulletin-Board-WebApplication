@@ -1,0 +1,59 @@
+
+h3, .h3 {
+    font-size: 1.5em;
+}
+
+.col-lg-4{
+	max-width: 100%;
+	padding: 20px;
+}
+
+
+.form-group{
+	margin: 30px 50px;
+}
+
+.container{
+	padding-top: 5%;
+}
+
+.row{
+	display: contents;
+}
+
+.table {
+	border: 1px solid #dddddd;
+	border-collapse: inherit;
+}
+
+a, a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+.intro a{
+    background-color: #5900e7;
+    border-radius: 2px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 300;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.intro {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+    margin: 50px auto;
+}
+
+.introduce {
+	margin-top : 20px;
+}
